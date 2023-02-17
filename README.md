@@ -7,6 +7,9 @@
 Тематика: интернет-магазин.
 ![image](https://user-images.githubusercontent.com/121193436/219652372-db464b9f-6010-4ac4-b2f5-9599370776a6.png)
 
+![image](https://user-images.githubusercontent.com/121193436/219659215-33e6d45e-1d22-4a65-bc39-0779a7070e4b.png)
+
+
 
 
 
