@@ -1,0 +1,14 @@
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+D:\Лабораторные\Практика\Practic-main\Practic_Api_1\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
