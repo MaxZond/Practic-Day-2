@@ -1,9 +1,0 @@
-Ссылки на задания:
-
-Проектирование БД:
-https://interesting-scraper-fc1.notion.site/API-5fdb261a2bed42ba9fc1b5e3a2d825d4
-Миграция БД в приложение
-https://interesting-scraper-fc1.notion.site/646dd81df6a54f53a0b84d0476fcd455
-
-Ссылка на удобный инструмент для скетчинга базы данных
-https://online.visual-paradigm.com/diagrams/features/erd-tool/
