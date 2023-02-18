@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+second+practice+work)](https://i.gifer.com/BulL.gif)
 ###### Day 2 ######
 -------------------------
-<a href="Practic%20Api%201_1/WebAPI1/Controllers/WeatherForecastController.cs">Connect a SQL DB to the API</a>     
+<a href="Practic_ApiDB_2/Practic_Api_1/Models/WebShopContext.cs">Connect a SQL DB to the API</a>     
 <a href="Practic_ApiDB_2/Practic_Api_1/Models">All models in the app</a>     
 ## Тематика: интернет-магазин. ##  
 ### Для начала необходимо грамотно спроектировать базу данных.
