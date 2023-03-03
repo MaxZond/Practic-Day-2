@@ -14,13 +14,17 @@
 Другими словами подключение бд к приложенияю и работа с ним.
 ![IMAGE 2023-02-18 22:03:26](https://user-images.githubusercontent.com/121193436/219883581-27178a7c-3c1d-41ce-8420-c5fa6aa3d549.jpg)
 
+<br></br>
+### Продолжение работы с API
+![image](https://user-images.githubusercontent.com/121193436/222681560-9b49c988-950a-44a1-939b-824220936510.png)
+
+
 На данном этапе все!
 
 <br></br>
 ### Также был разработан ToDo лист для данной предметной области     
 ![image](https://user-images.githubusercontent.com/121193436/222652775-7a8ebfcc-74a7-45e3-9062-6c94e4f2048d.png) 
 <a href="https://github.com/users/MaxZond/projects/4/views/1">Посмотреть</a>
-
 
 
 
