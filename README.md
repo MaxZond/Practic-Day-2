@@ -16,6 +16,7 @@
 
 <br></br>
 ### Продолжение работы с API
+<a href="Practic_ApiDB_3/Practic_Api_1/Controllers/UserController.cs">Основные функции API</a>        
 ![image](https://user-images.githubusercontent.com/121193436/222681560-9b49c988-950a-44a1-939b-824220936510.png)
 <br></br>
 Выдается ошибка, так как данных у нас никаких нет.
