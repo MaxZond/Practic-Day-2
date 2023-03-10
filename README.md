@@ -16,14 +16,14 @@
 
 <br></br>
 ### Продолжение работы с API
-<a href="Practic_ApiDB_3/Practic_Api_1/Controllers/UserController.cs">Основные функции API</a>        
-![image](https://user-images.githubusercontent.com/121193436/222681560-9b49c988-950a-44a1-939b-824220936510.png)
+<a href="Practic_ApiDB_3/Practic_Api_1/Controllers/UserController.cs">Основные функции API</a>    
 <br></br>
-Выдается ошибка, так как данных у нас никаких нет.
+#### Вывод всех данных из базы данных
+![image](https://user-images.githubusercontent.com/121193436/224316716-054ab8b3-f10a-44a6-a15b-8574ed8fb944.png)    
+<br></br>
+#### Вывод данных по UserId
+![image](https://user-images.githubusercontent.com/121193436/224316780-ecbfbd88-d2e0-41a8-b8ab-6aa959391ef7.png)
 
-#### Добовляем данные с помощью функции POST
-![image](https://user-images.githubusercontent.com/121193436/222895664-1ca580d4-bdb3-45ea-b016-c9519165a863.png)
-#### Проверяем
 
 <br></br>
 ### Также был разработан ToDo лист для данной предметной области     
