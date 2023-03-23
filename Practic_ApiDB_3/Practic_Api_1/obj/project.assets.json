@@ -874,7 +874,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "DataAccess": "1.0.0"
+          "Domain": "1.0.0"
         },
         "compile": {
           "bin/placeholder/BusinessLogic.dll": {}
@@ -887,6 +887,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.14"
         },
         "compile": {
@@ -894,6 +895,19 @@
         },
         "runtime": {
           "bin/placeholder/DataAccess.dll": {}
+        }
+      },
+      "Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.14"
+        },
+        "compile": {
+          "bin/placeholder/Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.dll": {}
         }
       }
     }
@@ -2251,30 +2265,41 @@
       "type": "project",
       "path": "../DataAccess/DataAccess.csproj",
       "msbuildProject": "../DataAccess/DataAccess.csproj"
+    },
+    "Domain/1.0.0": {
+      "type": "project",
+      "path": "../Domain/Domain.csproj",
+      "msbuildProject": "../Domain/Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "BusinessLogic >= 1.0.0",
       "DataAccess >= 1.0.0",
+      "Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.14",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\pmaxs\\.nuget\\packages\\": {},
+    "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\Practic-Day-2-main\\Practic_ApiDB_2\\Practic_Api_1\\Practic_Api_1.csproj",
+      "projectUniqueName": "D:\\Practic-Day-2-main\\Practic_ApiDB_3\\Practic_Api_1\\Practic_Api_1.csproj",
       "projectName": "Practic_Api_1",
-      "projectPath": "C:\\Users\\user\\Desktop\\Practic-Day-2-main\\Practic_ApiDB_2\\Practic_Api_1\\Practic_Api_1.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\Practic-Day-2-main\\Practic_ApiDB_2\\Practic_Api_1\\obj\\",
+      "projectPath": "D:\\Practic-Day-2-main\\Practic_ApiDB_3\\Practic_Api_1\\Practic_Api_1.csproj",
+      "packagesPath": "C:\\Users\\pmaxs\\.nuget\\packages\\",
+      "outputPath": "D:\\Practic-Day-2-main\\Practic_ApiDB_3\\Practic_Api_1\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\pmaxs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2288,11 +2313,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\user\\Desktop\\Practic-Day-2-main\\Practic_ApiDB_2\\BusinessLogic\\BusinessLogic.csproj": {
-              "projectPath": "C:\\Users\\user\\Desktop\\Practic-Day-2-main\\Practic_ApiDB_2\\BusinessLogic\\BusinessLogic.csproj"
+            "D:\\Practic-Day-2-main\\Practic_ApiDB_3\\BusinessLogic\\BusinessLogic.csproj": {
+              "projectPath": "D:\\Practic-Day-2-main\\Practic_ApiDB_3\\BusinessLogic\\BusinessLogic.csproj"
             },
-            "C:\\Users\\user\\Desktop\\Practic-Day-2-main\\Practic_ApiDB_2\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\user\\Desktop\\Practic-Day-2-main\\Practic_ApiDB_2\\DataAccess\\DataAccess.csproj"
+            "D:\\Practic-Day-2-main\\Practic_ApiDB_3\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "D:\\Practic-Day-2-main\\Practic_ApiDB_3\\DataAccess\\DataAccess.csproj"
+            },
+            "D:\\Practic-Day-2-main\\Practic_ApiDB_3\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\Practic-Day-2-main\\Practic_ApiDB_3\\Domain\\Domain.csproj"
             }
           }
         }
@@ -2337,7 +2365,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

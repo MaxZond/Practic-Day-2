@@ -1,11 +1,11 @@
 using BusinessLogic.Interfaces;
 using DataAccess.Wrapper;
 using Microsoft.EntityFrameworkCore;
-using Practic_Api_1.Models;
+using DataAccess.Models;
 using Microsoft.OpenApi.Models;
 using BusinessLogic.Services; 
 
-namespace Practic_Api_1
+namespace DataAccess
 {
     public class Program
     {

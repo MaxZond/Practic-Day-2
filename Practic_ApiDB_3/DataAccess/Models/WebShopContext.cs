@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 
-namespace Practic_Api_1.Models
+namespace DataAccess.Models
 {
     public partial class WebShopContext : DbContext
     {

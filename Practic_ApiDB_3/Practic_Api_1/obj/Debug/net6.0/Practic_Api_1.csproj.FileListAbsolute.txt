@@ -165,3 +165,12 @@ C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\obj\Debug
 C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.csproj.CopyComplete
 C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.genruntimeconfig.cache
 C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\Practic_Api_1\obj\Debug\net6.0\ref\Practic_Api_1.dll
+D:\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.csproj.AssemblyReference.cache
+D:\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.AssemblyInfoInputs.cache
+D:\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.AssemblyInfo.cs
+D:\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.csproj.CoreCompileInputs.cache
+D:\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.MvcApplicationPartsAssemblyInfo.cache
+D:\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.dll
+D:\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\obj\Debug\net6.0\refint\Practic_Api_1.dll
+D:\Practic-Day-2-main\Practic_ApiDB_3\Practic_Api_1\obj\Debug\net6.0\Practic_Api_1.pdb

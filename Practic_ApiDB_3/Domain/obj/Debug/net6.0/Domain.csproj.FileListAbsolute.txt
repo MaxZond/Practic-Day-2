@@ -1,0 +1,5 @@
+D:\Practic-Day-2-main\Practic_ApiDB_3\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\Practic-Day-2-main\Practic_ApiDB_3\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practic-Day-2-main\Practic_ApiDB_3\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\Practic-Day-2-main\Practic_ApiDB_3\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\Practic-Day-2-main\Practic_ApiDB_3\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache

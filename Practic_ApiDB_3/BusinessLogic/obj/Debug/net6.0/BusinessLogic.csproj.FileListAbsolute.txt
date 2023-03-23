@@ -13,3 +13,11 @@ C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\BusinessLogic\obj\Debug
 C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\BusinessLogic\obj\Debug\net6.0\refint\BusinessLogic.dll
 C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\BusinessLogic\obj\Debug\net6.0\BusinessLogic.pdb
 C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\BusinessLogic\obj\Debug\net6.0\ref\BusinessLogic.dll
+D:\Practic-Day-2-main\Practic_ApiDB_3\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.AssemblyReference.cache
+D:\Practic-Day-2-main\Practic_ApiDB_3\BusinessLogic\obj\Debug\net6.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practic-Day-2-main\Practic_ApiDB_3\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfoInputs.cache
+D:\Practic-Day-2-main\Practic_ApiDB_3\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfo.cs
+D:\Practic-Day-2-main\Practic_ApiDB_3\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Practic-Day-2-main\Practic_ApiDB_3\BusinessLogic\obj\Debug\net6.0\BusinessLogic.dll
+D:\Practic-Day-2-main\Practic_ApiDB_3\BusinessLogic\obj\Debug\net6.0\refint\BusinessLogic.dll
+D:\Practic-Day-2-main\Practic_ApiDB_3\BusinessLogic\obj\Debug\net6.0\BusinessLogic.pdb

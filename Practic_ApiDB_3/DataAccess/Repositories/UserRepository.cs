@@ -1,5 +1,5 @@
 ﻿using DataAccess.Interfaces;
-using Practic_Api_1.Models;
+using DataAccess.Models;
 
 namespace DataAccess.Repositories
 {

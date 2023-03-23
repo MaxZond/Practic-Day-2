@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Practic_Api_1.Models
+namespace DataAccess.Models
 {
     public partial class OrderItem
     {

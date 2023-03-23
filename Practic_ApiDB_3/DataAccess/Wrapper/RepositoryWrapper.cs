@@ -1,5 +1,5 @@
 ﻿using DataAccess.Interfaces;
-using Practic_Api_1.Models;
+using DataAccess.Models;
 using DataAccess.Repositories;
 
 namespace DataAccess.Wrapper
@@ -20,7 +20,6 @@ namespace DataAccess.Wrapper
                 }
                 return _user;
             }
-        
         }
 
         public RepositoryWrapper(WebShopContext repositoryContext) 
@@ -28,9 +27,9 @@ namespace DataAccess.Wrapper
             _repoContext = repositoryContext;
         }
 
-        public void Save()
+        public async void Save()
         {
-            _repoContext.SaveChanges();
+            await _repoContext.SaveChangesAsync();
         }
     }
 }

@@ -1,4 +1,4 @@
-namespace Practic_Api_1
+namespace DataAccess
 {
     public class WeatherForecast
     {

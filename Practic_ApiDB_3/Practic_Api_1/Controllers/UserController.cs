@@ -1,8 +1,8 @@
 ﻿using BusinessLogic.Interfaces;
-using Practic_Api_1.Models;
+using DataAccess.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Practic_Api_1.Controllers
+namespace DataAccess.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

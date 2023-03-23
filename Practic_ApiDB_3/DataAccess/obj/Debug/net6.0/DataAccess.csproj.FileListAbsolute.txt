@@ -26,3 +26,11 @@ C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\DataAccess\obj\Debug\ne
 C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\DataAccess\obj\Debug\net6.0\DataAccess.pdb
 C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
 C:\Users\user\Desktop\Practic-Day-2-main\Practic_ApiDB_2\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+D:\Practic-Day-2-main\Practic_ApiDB_3\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\Practic-Day-2-main\Practic_ApiDB_3\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practic-Day-2-main\Practic_ApiDB_3\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\Practic-Day-2-main\Practic_ApiDB_3\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\Practic-Day-2-main\Practic_ApiDB_3\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Practic-Day-2-main\Practic_ApiDB_3\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\Practic-Day-2-main\Practic_ApiDB_3\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\Practic-Day-2-main\Practic_ApiDB_3\DataAccess\obj\Debug\net6.0\DataAccess.pdb

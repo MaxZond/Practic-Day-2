@@ -1,7 +1,7 @@
 ﻿using System.Linq.Expressions;
-using DataAccess.Interfaces;
+using Domain.Interfaces;
 using Microsoft.EntityFrameworkCore;
-using Practic_Api_1.Models;
+using DataAccess.Models;
 
 namespace DataAccess.Repositories
 {

@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using System;
 
-namespace Practic_Api_1.Controllers
+namespace DataAccess.Controllers
 {
     public class WeatherData
     {

@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Practic-Day-2-main\\Practic_ApiDB_2\\BusinessLogic\\BusinessLogic.csproj": {}
+    "D:\\Practic-Day-2-main\\Practic_ApiDB_3\\BusinessLogic\\BusinessLogic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Practic-Day-2-main\\Practic_ApiDB_2\\BusinessLogic\\BusinessLogic.csproj": {
+    "D:\\Practic-Day-2-main\\Practic_ApiDB_3\\BusinessLogic\\BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Practic-Day-2-main\\Practic_ApiDB_2\\BusinessLogic\\BusinessLogic.csproj",
+        "projectUniqueName": "D:\\Practic-Day-2-main\\Practic_ApiDB_3\\BusinessLogic\\BusinessLogic.csproj",
         "projectName": "BusinessLogic",
-        "projectPath": "C:\\Users\\user\\Desktop\\Practic-Day-2-main\\Practic_ApiDB_2\\BusinessLogic\\BusinessLogic.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Practic-Day-2-main\\Practic_ApiDB_2\\BusinessLogic\\obj\\",
+        "projectPath": "D:\\Practic-Day-2-main\\Practic_ApiDB_3\\BusinessLogic\\BusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\pmaxs\\.nuget\\packages\\",
+        "outputPath": "D:\\Practic-Day-2-main\\Practic_ApiDB_3\\BusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pmaxs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\Practic-Day-2-main\\Practic_ApiDB_2\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\Practic-Day-2-main\\Practic_ApiDB_2\\DataAccess\\DataAccess.csproj"
+              "D:\\Practic-Day-2-main\\Practic_ApiDB_3\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Practic-Day-2-main\\Practic_ApiDB_3\\Domain\\Domain.csproj"
               }
             }
           }
@@ -59,21 +63,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\Practic-Day-2-main\\Practic_ApiDB_2\\DataAccess\\DataAccess.csproj": {
+    "D:\\Practic-Day-2-main\\Practic_ApiDB_3\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Practic-Day-2-main\\Practic_ApiDB_2\\DataAccess\\DataAccess.csproj",
-        "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\user\\Desktop\\Practic-Day-2-main\\Practic_ApiDB_2\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Practic-Day-2-main\\Practic_ApiDB_2\\DataAccess\\obj\\",
+        "projectUniqueName": "D:\\Practic-Day-2-main\\Practic_ApiDB_3\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "D:\\Practic-Day-2-main\\Practic_ApiDB_3\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\pmaxs\\.nuget\\packages\\",
+        "outputPath": "D:\\Practic-Day-2-main\\Practic_ApiDB_3\\Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pmaxs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -99,13 +107,7 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[6.0.14, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
+            "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.14, )"
             }
@@ -126,7 +128,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
