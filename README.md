@@ -23,6 +23,34 @@
 <br></br>
 #### Вывод данных по UserId
 ![image](https://user-images.githubusercontent.com/121193436/224316780-ecbfbd88-d2e0-41a8-b8ab-6aa959391ef7.png)
+<br></br>
+## Изменение файлов проекта
+### Перемещаем некоторые интерфейсы и модели из DataAcsess и BusinessLogic в проект Domain.
+![IMAGE 2023-03-24 02:48:00](https://user-images.githubusercontent.com/121193436/227388865-a19970db-d0ea-4758-b912-7951e69be39a.jpg)
+<br></br>
+### Задаем зависимость другим проектам
+![IMAGE 2023-03-24 02:51:18](https://user-images.githubusercontent.com/121193436/227389163-b71b6c77-7545-4458-955d-b94675c2fc5d.jpg)
+<br></br>
+### Переход на асинхронность
+#### Перейдем в класс RepositoryWrapper и измените метод Save()
+![IMAGE 2023-03-24 02:53:21](https://user-images.githubusercontent.com/121193436/227389458-d44acd60-de26-484e-9bc4-fafcae30cbf7.jpg)
+<br></br>
+#### Адаптируем класс UserService под текущие изменения, например
+![IMAGE 2023-03-24 02:55:56](https://user-images.githubusercontent.com/121193436/227389805-3868d182-c315-4b67-8526-f72151e327de.jpg)
+<br></br>
+### Изменим интерфейсы
+#### Интерфейс IRepositoryBase
+![IMAGE 2023-03-24 02:56:03](https://user-images.githubusercontent.com/121193436/227389989-a8f4828f-bc31-4642-91db-09e3a3e87658.jpg)      
+#### Интерфейс IRepositoryWrapper
+![IMAGE 2023-03-24 02:56:05](https://user-images.githubusercontent.com/121193436/227390130-e9c7381c-6d98-4155-952b-b6a4cddf94f8.jpg)      
+#### Интерфейс IUserService
+![IMAGE 2023-03-24 02:56:09](https://user-images.githubusercontent.com/121193436/227390180-a9b5c335-552e-4f84-909e-927b04984139.jpg)       
+<br></br>
+## Работа с Миграциями в EF Core
+### Добавляем библиотеку Microsoft.EntityFrameworkCore.Tools в проект API
+![IMAGE 2023-03-24 02:56:11](https://user-images.githubusercontent.com/121193436/227390303-dc02bb8e-5b74-4a07-a8e6-db8a222c84a0.jpg)
+
+
 
 
 <br></br>
