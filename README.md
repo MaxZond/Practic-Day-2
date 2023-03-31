@@ -25,6 +25,7 @@
 ![image](https://user-images.githubusercontent.com/121193436/224316780-ecbfbd88-d2e0-41a8-b8ab-6aa959391ef7.png)
 <br></br>
 ## Изменение файлов проекта
+#### <a href="https://github.com/MaxZond/Practic-Day-2/tree/main/WebShop-Api">Просмотреть работу</a>
 ### Перемещаем некоторые интерфейсы и модели из DataAcsess и BusinessLogic в проект Domain.
 ![IMAGE 2023-03-24 02:48:00](https://user-images.githubusercontent.com/121193436/227388865-a19970db-d0ea-4758-b912-7951e69be39a.jpg)
 <br></br>
