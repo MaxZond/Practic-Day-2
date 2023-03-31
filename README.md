@@ -49,6 +49,10 @@
 ## Работа с Миграциями в EF Core
 ### Добавляем библиотеку Microsoft.EntityFrameworkCore.Tools в проект API
 ![IMAGE 2023-03-24 02:56:11](https://user-images.githubusercontent.com/121193436/227390303-dc02bb8e-5b74-4a07-a8e6-db8a222c84a0.jpg)
+### Сформировались файлы для миграции в папке Migration
+![image](https://user-images.githubusercontent.com/121193436/229068196-7a14bf6a-5570-4359-8db2-f94095c5172e.png)
+### Для проверки работы, сформируем новую бд при помощи миграций. Изменяем имя в строке подключения на любое другое      
+![image](https://user-images.githubusercontent.com/121193436/229068717-294a6593-831c-413e-bc23-6d4c7afb0496.png)
 
 
 
