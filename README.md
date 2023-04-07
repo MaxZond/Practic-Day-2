@@ -46,6 +46,7 @@
 ![IMAGE 2023-03-24 02:56:05](https://user-images.githubusercontent.com/121193436/227390130-e9c7381c-6d98-4155-952b-b6a4cddf94f8.jpg)      
 #### Интерфейс IUserService
 ![IMAGE 2023-03-24 02:56:09](https://user-images.githubusercontent.com/121193436/227390180-a9b5c335-552e-4f84-909e-927b04984139.jpg)       
+
 <br></br>
 ## Работа с Миграциями в EF Core
 ### Добавляем библиотеку Microsoft.EntityFrameworkCore.Tools в проект API
@@ -57,6 +58,15 @@
 ### Проверяем, что база данных сформировалась со всеми вашими таблицами
 ![image](https://user-images.githubusercontent.com/121193436/229073205-b79d424a-0409-49f4-96c2-6e0745e331f1.png)
 
+<br></br>
+## Работа с файлом .editorconfig    
+#### Добовляем файл .editorconfig для всего проекта
+![image](https://user-images.githubusercontent.com/121193436/230589133-76c0ec87-5258-4d13-a6db-046176ead9e2.png)
+### Знакомимся с dotnet-cli    
+#### Посмотрим в командной строке действия dotnet
+![image](https://user-images.githubusercontent.com/121193436/230591983-a28c2db8-de64-4865-93d5-82a0c43e30e8.png)
+#### Создадим новый консольный проект
+![image](https://user-images.githubusercontent.com/121193436/230592663-6839dadb-896d-4656-84bb-c499346c69b1.png)
 
 
 
