@@ -67,8 +67,8 @@
 ![image](https://user-images.githubusercontent.com/121193436/230591983-a28c2db8-de64-4865-93d5-82a0c43e30e8.png)
 #### Создадим новый консольный проект
 ![image](https://user-images.githubusercontent.com/121193436/230592663-6839dadb-896d-4656-84bb-c499346c69b1.png)
-
-
+<br></br>
+<a href="https://github.com/MaxZond/Practic-Day-2/blob/main/.github/workflows/dotnet-desktop.yml">Увидет .yml файл</a>
 
 <br></br>
 ### Также был разработан ToDo лист для данной предметной области     
